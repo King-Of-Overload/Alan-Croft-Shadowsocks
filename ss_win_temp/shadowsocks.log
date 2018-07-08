@@ -1,0 +1,1013 @@
+[2018-07-08 17:32:58] Shadowsocks started
+[2018-07-08 17:32:58] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:29:32] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:32] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:32] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:32] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:32] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:32] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Shadowsocks started
+[2018-07-08 20:29:33] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:33] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:48] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:29:53] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:30:37] Shadowsocks started
+[2018-07-08 20:30:37] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:10] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:11] Shadowsocks started
+[2018-07-08 20:31:11] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:31:11] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:11] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:11] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:11] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:11] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:31:52] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:10] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:10] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:10] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:10] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:10] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:10] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] Shadowsocks started
+[2018-07-08 20:32:11] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:32:11] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:33:49] Shadowsocks started
+[2018-07-08 20:33:49] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:33:57] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2018-07-08 20:33:58] System.Net.Sockets.SocketException (0x80004005): 由于目标计算机积极拒绝，无法连接。
+   在 Shadowsocks.Util.Sockets.WrappedSocket.EndConnect(IAsyncResult asyncResult)
+   在 Shadowsocks.Proxy.DirectConnect.EndConnectDest(IAsyncResult asyncResult)
+   在 Shadowsocks.Controller.TCPHandler.ConnectCallback(IAsyncResult ar)
+[2018-07-08 20:33:58] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 基础连接已经关闭: 发送时发生错误。 ---> System.IO.IOException: 由于远程方已关闭传输流，身份验证失败。
+   在 System.Net.TlsStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.PooledStream.EndWrite(IAsyncResult asyncResult)
+   在 System.Net.ConnectStream.WriteHeadersCallback(IAsyncResult ar)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   在 System.Net.WebClient.GetWebResponse(WebRequest request, IAsyncResult result)
+   在 System.Net.WebClient.DownloadBitsResponseCallback(IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Shadowsocks started
+[2018-07-08 20:35:05] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:35:05] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:38:33] Shadowsocks started
+[2018-07-08 20:38:33] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:39:49] Shadowsocks started
+[2018-07-08 20:39:49] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:56] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:57] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:57] Shadowsocks started
+[2018-07-08 20:42:57] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:42:57] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:57] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:57] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:57] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:42:57] Newtonsoft.Json.JsonReaderException: Additional text encountered after finished reading JSON content: {. Path '', line 52, position 1.
+   在 Newtonsoft.Json.JsonTextReader.Read()
+   在 Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   在 Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   在 Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:57] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:58] Shadowsocks started
+[2018-07-08 20:43:58] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 20:43:58] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:58] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:58] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:58] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:58] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 20:43:59] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:12] Shadowsocks started
+[2018-07-08 21:00:13] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:00:13] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:13] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:13] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:13] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:13] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:15] System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 Shadowsocks.Model.Configuration.Load()
+[2018-07-08 21:00:46] Shadowsocks started
+[2018-07-08 21:00:46] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:01:53] Shadowsocks started
+[2018-07-08 21:01:53] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:04:01] Shadowsocks started
+[2018-07-08 21:04:01] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:04:46] Shadowsocks started
+[2018-07-08 21:04:46] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:05:06] Shadowsocks started
+[2018-07-08 21:05:06] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:05:22] Shadowsocks started
+[2018-07-08 21:05:22] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:05:38] Shadowsocks started
+[2018-07-08 21:05:38] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:05:48] Shadowsocks started
+[2018-07-08 21:05:48] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:09:01] Shadowsocks started
+[2018-07-08 21:09:01] 
+=========================
+Registered Encryptor Info
+aes-128-cfb=>StreamOpenSSLEncryptor
+aes-192-cfb=>StreamOpenSSLEncryptor
+aes-256-cfb=>StreamOpenSSLEncryptor
+aes-128-ctr=>StreamOpenSSLEncryptor
+aes-192-ctr=>StreamOpenSSLEncryptor
+aes-256-ctr=>StreamOpenSSLEncryptor
+bf-cfb=>StreamOpenSSLEncryptor
+camellia-128-cfb=>StreamOpenSSLEncryptor
+camellia-192-cfb=>StreamOpenSSLEncryptor
+camellia-256-cfb=>StreamOpenSSLEncryptor
+rc4-md5=>StreamOpenSSLEncryptor
+salsa20=>StreamSodiumEncryptor
+chacha20=>StreamSodiumEncryptor
+chacha20-ietf=>StreamSodiumEncryptor
+aes-128-gcm=>AEADOpenSSLEncryptor
+aes-192-gcm=>AEADOpenSSLEncryptor
+aes-256-gcm=>AEADOpenSSLEncryptor
+chacha20-ietf-poly1305=>AEADOpenSSLEncryptor
+xchacha20-ietf-poly1305=>AEADSodiumEncryptor
+=========================
+
+[2018-07-08 21:09:35] System.Reflection.TargetInvocationException: 操作过程中出现异常，结果无效。  有关异常的详细信息，请查看 InnerException。 ---> System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 从传输流收到意外的 EOF 或 0 个字节。
+   在 System.Net.ConnectStream.EndRead(IAsyncResult asyncResult)
+   在 System.Net.WebClient.DownloadBitsReadCallbackState(DownloadBitsState state, IAsyncResult result)
+   --- 内部异常堆栈跟踪的结尾 ---
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.ComponentModel.AsyncCompletedEventArgs.RaiseExceptionIfNecessary()
+   在 Shadowsocks.Controller.UpdateChecker.http_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
